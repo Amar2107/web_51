@@ -1,0 +1,40 @@
+
+form{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+body
+{
+	background: floralwhite;
+  position: relative;
+}
+#myCarousel {
+  width: 100vw;
+  height: 60vh;
+  position: absolute;
+  left: 0%;
+  top: 30%;
+}
+img{
+	padding: 16px 8px 8px 8px;
+  height: 60vh !important;
+  width: 100vw !important;
+}
+.panel-body{
+	background: floralwhite;
+}
+.mypanel .showOnHover{
+	display:none;
+}
+.mypanel:hover .showOnHover{
+display: inline-block;
+}
+button:hover {
+	background: #ff0000;
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
