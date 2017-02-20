@@ -21,12 +21,6 @@ img{
   height: 60vh !important;
   width: 100vw !important;
 }
-#damn {
-  /*position: absolute;
-  top: 0%;*/
-  color: white;
-  background-color: red;
-}
 .panel-body{
 	background: floralwhite;
 }
